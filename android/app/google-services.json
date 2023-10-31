@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93047319250",
+    "project_id": "parking-assist-fae9b",
+    "storage_bucket": "parking-assist-fae9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93047319250:android:902842ee003636b2349b0b",
+        "android_client_info": {
+          "package_name": "com.example.parking_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjCEvzjG0QBf3BewUDHsou3H18-2kZOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
